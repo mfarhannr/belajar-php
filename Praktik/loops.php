@@ -44,6 +44,7 @@
     foreach ($arrayteman as $array) {
         echo $array . "<br>";
     }
+    
     ?>
 </body>
 
